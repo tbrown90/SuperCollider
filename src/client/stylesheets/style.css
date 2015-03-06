@@ -10,7 +10,7 @@ canvas {
     margin-right: auto;
 }
 
-p {
+.center-text {
     text-align: center;
     width: 960px;
     margin-left: auto;
